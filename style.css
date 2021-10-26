@@ -1,23 +1,31 @@
-.listMenu {
-    list-style-type: none;
-}
-
-.listMenu li {
-    display: flex;
-}
-
-.listMenu span {
-    margin-left: 10px;
-}
-
-.btnTwitter {
-    width: 150px;
-}
-
-.iconTwitter {
-    padding: 20px 0px 20px 0px;
-}
-
-button {
-    border: none;
-}
+.div1{
+    height: 100%;
+     
+    }
+    
+    .list-menu{
+        list-style-type: none;
+    }
+    
+    .list-menu li {
+        display: flex;
+    }
+    
+    
+    .list-menu span {
+       margin-right: 10px;
+    }
+    
+    button{
+        border: none;
+    }
+    
+    
+    .btn-new-twitter{
+        width: 200px;
+    }
+    
+    .icon-twitter{
+       
+        padding: 20px 0px 20px 0px;
+    }
