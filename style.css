@@ -1,4 +1,23 @@
-.div2{
+.listMenu {
+    list-style-type: none;
+}
 
-    background-color: blue;
+.listMenu li {
+    display: flex;
+}
+
+.listMenu span {
+    margin-left: 10px;
+}
+
+.btnTwitter {
+    width: 150px;
+}
+
+.iconTwitter {
+    padding: 20px 0px 20px 0px;
+}
+
+button {
+    border: none;
 }
